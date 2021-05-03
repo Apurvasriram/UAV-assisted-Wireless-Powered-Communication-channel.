@@ -1,10 +1,10 @@
 # Final_year_project
-codes for final year project
+ List of codes attached for my final year project
 
-Codes for 
+Codes for
     Comparative Analysis
-        a) Outage probability ;
-        b) BER ;
+        a) Outage probability 
+        b) BER 
         c)Ergodic Capacity
         d) MAX Throughput wrt Outage proabaility
         e) Max throughput wrt Ergodic Capacity      
