@@ -1,4 +1,4 @@
-# Project-  Performance Analysis of Rician Fading channel for UAV assisted Wireless Powered Communication Channel
+# Project-  Performance Analysis of UAV assisted Wireless Powered Communication Channel over Rician Fading channel 
  1.Thesis Report
  2. codes used in the project
 
