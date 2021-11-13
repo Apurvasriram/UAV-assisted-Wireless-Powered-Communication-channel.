@@ -1,7 +1,8 @@
-# Final_year_project
- List of codes attached for my final year project
+# Project-  Performance Analysis of Rician Fading channel for UAV assisted Wireless Powered Communication Channel
+ 1.Thesis Report
+ 2. codes used in the project
 
-Codes for
+
     **Comparative Analysis**
         a) Outage probability 
         b) BER 
